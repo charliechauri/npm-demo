@@ -1,0 +1,15 @@
+{
+  "name": "npm-demo",
+  "version": "0.1.0",
+  "description": "A simple demo to see basic npm features",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "npm",
+    "demo"
+  ],
+  "author": "charliechauri",
+  "license": "MIT"
+}
